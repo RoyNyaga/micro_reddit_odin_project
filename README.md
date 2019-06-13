@@ -1,0 +1,1 @@
+This project is a sample of the kind of models that the reddit app has, It also attempts to mimick the relationship between the models.
